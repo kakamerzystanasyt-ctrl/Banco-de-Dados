@@ -1,3 +1,14 @@
 {
-  "logs": []
+  "logs": [
+    {
+      "NumberDono": ".",
+      "botNumber": ".",
+      "TokenDoBot": "TOKEN_REM_TESTE",
+      "NomeDoBot": "𝙍𝙀𝙈 𝘼𝘿𝙎 ^-^",
+      "NickDono": ".⁷",
+      "authorized": true,
+      "delete": false,
+      "horario": "14/11/2025, 10:27:06"
+    }
+  ]
 }
