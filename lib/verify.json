@@ -7,6 +7,13 @@
       "owner": "5511960147506",
       "correio": "bah",
       "expires": "2026-10-29"
+    },
+    {
+      "token": "TOKEN_REM_TESTE",
+      "user": "bi",
+      "owner": "5511960147506",
+      "correio": "bah",
+      "expires": "2026-10-29"
     }
   ]
 }
